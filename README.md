@@ -1,1 +1,1 @@
-# Quiz-App in JS
+# Quiz-App in JS.
